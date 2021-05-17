@@ -5,4 +5,5 @@
 我现在再次编辑，想要测试一下没有git add 文件的状态。
 为什么我在克隆的项目里，push到zhang上，然后自己的远程库上的也变了？
 明白了，两个的地址是一样的。
-test3 push 
+test3 push
+test4 push
